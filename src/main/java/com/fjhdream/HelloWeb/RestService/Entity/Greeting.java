@@ -1,4 +1,4 @@
-package com.fjhdream.HelloWeb.RestService;
+package com.fjhdream.HelloWeb.RestService.Entity;
 
 public class Greeting {
     private final long id;

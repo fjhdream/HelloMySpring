@@ -1,5 +1,6 @@
-package com.fjhdream.HelloWeb.RestService;
+package com.fjhdream.HelloWeb.RestService.Controller;
 
+import com.fjhdream.HelloWeb.RestService.Entity.Greeting;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
